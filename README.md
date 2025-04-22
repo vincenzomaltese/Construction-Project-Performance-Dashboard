@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT) [![Powered by Power BI](https://img.shields.io/badge/Powered%20by-Power%20BI-yellow?style=for-the-badge&logo=powerbi)](https://powerbi.microsoft.com/)
 
-## 📊 Project Overview
+##  Project Overview
 
 This repository contains a comprehensive Power BI dashboard designed for **Construction Project Management**. Leveraging data visualization best practices, this dashboard provides a holistic view of project performance, enabling stakeholders, project managers, and executives to monitor progress, track key performance indicators (KPIs), identify potential risks, and make informed, data-driven decisions.
 
@@ -10,7 +10,7 @@ The solution transforms raw project data into actionable insights, focusing on c
 
 ---
 
-## ✨ Key Features & Dashboard Sections
+##  Key Features & Dashboard Sections
 
 The Power BI report consists of two main interactive pages:
 
@@ -48,7 +48,7 @@ This page offers a detailed, task-level view of project schedules using an inter
 
 ---
 
-## 🏗️ Data Model
+##  Data Model
 
 The dashboard is built upon a robust Star Schema data model, optimized for performance and analytical flexibility within Power BI:
 
@@ -69,7 +69,7 @@ Relationships are primarily one-to-many, flowing from the dimension tables to th
 
 ---
 
-## 💡 Potential Insights & Business Value
+##  Potential Insights & Business Value
 
 This dashboard empowers users to:
 
@@ -84,14 +84,14 @@ This dashboard empowers users to:
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 *   **Data Visualization & Analysis:** Microsoft Power BI Desktop
 *   **Data Modeling:** Power Query, DAX (for calculations and measures)
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1.  **Prerequisites:** Requires Microsoft Power BI Desktop installed.
 2.  **Open:** Download the `.pbix` file from this repository.
