@@ -32,7 +32,7 @@ This page provides a high-level executive summary of the entire project portfoli
     *   `PM Performance Table`: Matrix detailing key metrics (Tasks, Overdue Tasks, Cost, Budget, Profit) for each Project Manager, including their picture for easy identification.
     *   `Tasks and Projects by Location`: Geographic map visualizing the distribution of projects and tasks across different states/regions.
 
-![Overview Dashboard](images/overview_dashboard.png)
+![Overview Dashboard](https://github.com/vincenzomaltese/Construction-Project-Performance-Dashboard/blob/main/images/overview.jpg)
 
 ### 2. Project Timeline (Gantt Chart View)
 
@@ -44,7 +44,8 @@ This page offers a detailed, task-level view of project schedules using an inter
 *   **Resource Assignment:** Displays the name of the individual assigned to each task (e.g., Frank, Bob, Alice).
 *   **Interactivity:** Includes a `Search` bar to find specific projects or tasks and a `Collapse All` button for easier navigation.
 
-![Project Timeline](images/project_timeline.png)
+![Timeline Project](https://github.com/vincenzomaltese/Construction-Project-Performance-Dashboard/blob/main/images/project_timeline.jpg)
+
 ---
 
 ## 🏗️ Data Model
